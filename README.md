@@ -55,6 +55,10 @@ baseURL: 'http://localhost:3332'
 
 $ yarn dev
 
+### Run the application in development mode
+
+Adding **?admin=true** on URL, you can see the options to create, edit and delete an article
+
 ## Tecnologias
 
 The following tools were used in the development of the IncFinances application:
@@ -69,6 +73,10 @@ The following tools were used in the development of the IncFinances application:
 - [React](https://pt-br.reactjs.org/)
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+## Apresentatition
+
+- [Video](https://drive.google.com/file/d/158InjAaycNq2TwEdH8GykCnlbOd7y4s3/view?usp=sharing)
 
 ## Developer
 
