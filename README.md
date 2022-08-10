@@ -27,6 +27,10 @@ $ yarn
 
 ### Run the application in development mode
 
+Before run, change the path on this archive **src/shared/infra/database/typeOrmClient.ts**. Change **dist** to src on line 10 and 11.
+
+### Run the application in development mode
+
 $ yarn dev:server
 
 ### The server will start at port: 3332 - go to <http://localhost:3332/>
